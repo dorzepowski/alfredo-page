@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/alfredo-page/static/css/main.c2f3f160.chunk.css",
-    "main.js": "/alfredo-page/static/js/main.cdf2cb81.chunk.js",
-    "main.js.map": "/alfredo-page/static/js/main.cdf2cb81.chunk.js.map",
+    "main.js": "/alfredo-page/static/js/main.b63c26a3.chunk.js",
+    "main.js.map": "/alfredo-page/static/js/main.b63c26a3.chunk.js.map",
     "runtime-main.js": "/alfredo-page/static/js/runtime-main.b1113325.js",
     "runtime-main.js.map": "/alfredo-page/static/js/runtime-main.b1113325.js.map",
     "static/js/2.57d9f822.chunk.js": "/alfredo-page/static/js/2.57d9f822.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b1113325.js",
     "static/js/2.57d9f822.chunk.js",
     "static/css/main.c2f3f160.chunk.css",
-    "static/js/main.cdf2cb81.chunk.js"
+    "static/js/main.b63c26a3.chunk.js"
   ]
 }
